@@ -25,3 +25,18 @@ What version of Sea.js is the issue reproducible in. Is it reproducible after up
 ## License
 
 Sea.js is available under the terms of the [MIT License](http://seajs.org/LICENSE.md).
+
+
+## Study
+
+- [构建工具](https://github.com/seajs/seajs/issues/538)
+- [Makefile](https://github.com/seajs/examples/blob/master/static/hello/Makefile)
+
+
+### [Grunt](http://gruntjs.com/)
+
+- [CMD 模块构建，从认识 Grunt 开始](https://github.com/seajs/seajs/issues/670)
+- [如何使用 Grunt 构建一个中型项目](https://github.com/seajs/seajs/issues/672)
+- [使用 spm 构建业务模块的个人经验](https://github.com/seajs/seajs/issues/690)
+
+
